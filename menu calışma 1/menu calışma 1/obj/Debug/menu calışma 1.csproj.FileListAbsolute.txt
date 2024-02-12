@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\bin\Debug\menu calışma 1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\bin\Debug\menu calışma 1.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\bin\Debug\menu calışma 1.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu calışma 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu calışma 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu_calışma_1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu_calışma_1.Form2.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu_calışma_1.KitapEkle.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu_calışma_1.KitapTeslim.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu_calışma_1.OgrenciEkle.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu_calışma_1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu calışma 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu calışma 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu calışma 1.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\menu calışma 1\menu calışma 1\obj\Debug\menu calışma 1.pdb
